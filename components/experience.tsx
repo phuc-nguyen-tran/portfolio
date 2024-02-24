@@ -47,7 +47,9 @@ export default function Experience() {
               <h3 className="font-semibold capitalize">{item.title}</h3>
               <p className="font-normal !mt-0">{item.location}</p>
               <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75">
-                {item.description.map((bullet) => <div>• {bullet}</div>)}
+                {item.description.map((bullet, index) => (
+                  <div key = {index}>• {bullet}</div>
+                ))}
               </p>
             </VerticalTimelineElement>
           </React.Fragment>
