@@ -27,8 +27,8 @@ export default function About() {
           Backend and Infrastructure Software Engineering
         </span>
         . I will be a Software Engineer Intern at{" "}
-        <span className="font-medium">ServiceNow</span> in Summer 2024, working
-        at the Platform Security Team. Previously at{" "}
+        <span className="font-medium">Waymo</span> in Summer 2024, working
+        at the Fleet Infrastructure Team. Previously at{" "}
         <span className="font-medium">
           FPT Information System and BeetSoft.
         </span>
