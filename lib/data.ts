@@ -33,14 +33,14 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "ServiceNow",
-    location: "Incoming Software Engineer Intern",
+    title: "Waymo",
+    location: "Software Engineer Intern",
     description:
       [
-        "Worked on the Security team, develop dashboard to show vulnerabilities for Fortune-500 companies",
+        "Worked on the Fleet Infrastructure Team",
       ],
     icon: React.createElement(CgWorkAlt),
-    date: "May 2024 - Aug 2024",
+    date: "Jun 2024 - Aug 2024",
   },
   {
     title: "BeetSoft",
